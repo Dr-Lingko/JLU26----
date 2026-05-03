@@ -428,7 +428,12 @@ INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong60.tfm
 INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong59.tfm
 INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong90.tfm
 INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5e.tfm
+INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei50.tfm
+INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei67.tfm
+INPUT e:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong81.tfm
 INPUT 数模校赛论文.aux
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simsun.ttc
