@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.4)  3 MAY 2026 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.4)  3 MAY 2026 22:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -506,81 +506,81 @@ Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle
 ]
 
 [3]
-<assets/image1.png, id=207, 240.9pt x 168.63pt>
+<assets/image1.png, id=206, 240.9pt x 168.63pt>
 File: assets/image1.png Graphic file (type png)
 <use assets/image1.png>
-Package pdftex.def Info: assets/image1.png  used on input line 139.
+Package pdftex.def Info: assets/image1.png  used on input line 141.
 (pdftex.def)             Requested size: 59.18394pt x 41.42664pt.
-<assets/image44.png, id=209, 240.9pt x 168.63pt>
+<assets/image44.png, id=208, 240.9pt x 168.63pt>
 File: assets/image44.png Graphic file (type png)
 <use assets/image44.png>
-Package pdftex.def Info: assets/image44.png  used on input line 142.
+Package pdftex.def Info: assets/image44.png  used on input line 144.
 (pdftex.def)             Requested size: 59.18394pt x 41.42664pt.
-<assets/image46.png, id=210, 292.09125pt x 153.57375pt>
+<assets/image46.png, id=209, 292.09125pt x 153.57375pt>
 File: assets/image46.png Graphic file (type png)
 <use assets/image46.png>
-Package pdftex.def Info: assets/image46.png  used on input line 145.
+Package pdftex.def Info: assets/image46.png  used on input line 147.
 (pdftex.def)             Requested size: 72.84071pt x 38.29726pt.
-<assets/image48.png, id=211, 48.18pt x 84.315pt>
+<assets/image48.png, id=210, 48.18pt x 84.315pt>
 File: assets/image48.png Graphic file (type png)
 <use assets/image48.png>
-Package pdftex.def Info: assets/image48.png  used on input line 148.
+Package pdftex.def Info: assets/image48.png  used on input line 150.
 (pdftex.def)             Requested size: 54.62706pt x 95.59645pt.
-<assets/image50.png, id=212, 51.19125pt x 84.315pt>
+<assets/image50.png, id=211, 51.19125pt x 84.315pt>
 File: assets/image50.png Graphic file (type png)
 <use assets/image50.png>
-Package pdftex.def Info: assets/image50.png  used on input line 151.
+Package pdftex.def Info: assets/image50.png  used on input line 153.
 (pdftex.def)             Requested size: 54.62706pt x 89.9794pt.
-<assets/image52.png, id=213, 120.45pt x 84.315pt>
+
+
+[4 <./assets/image1.png> <./assets/image44.png> <./assets/image46.png> <./assets/image48.png>]
+<assets/image52.png, id=222, 120.45pt x 84.315pt>
 File: assets/image52.png Graphic file (type png)
 <use assets/image52.png>
-Package pdftex.def Info: assets/image52.png  used on input line 154.
+Package pdftex.def Info: assets/image52.png  used on input line 156.
 (pdftex.def)             Requested size: 54.62706pt x 38.23857pt.
-<assets/image54.png, id=214, 355.3275pt x 186.6975pt>
+<assets/image54.png, id=223, 355.3275pt x 186.6975pt>
 File: assets/image54.png Graphic file (type png)
 <use assets/image54.png>
-Package pdftex.def Info: assets/image54.png  used on input line 158.
+Package pdftex.def Info: assets/image54.png  used on input line 160.
 (pdftex.def)             Requested size: 91.04742pt x 47.83655pt.
-
-
-[4 <./assets/image1.png> <./assets/image44.png> <./assets/image46.png> <./assets/image48.png> <./assets/image50.png> <./assets/image52.png>]
-<assets/image56.png, id=226, 45.16875pt x 72.27pt>
+<assets/image56.png, id=224, 45.16875pt x 72.27pt>
 File: assets/image56.png Graphic file (type png)
 <use assets/image56.png>
-Package pdftex.def Info: assets/image56.png  used on input line 163.
+Package pdftex.def Info: assets/image56.png  used on input line 165.
 (pdftex.def)             Requested size: 54.62706pt x 87.40393pt.
-<assets/image58.png, id=227, 66.2475pt x 84.315pt>
+<assets/image58.png, id=225, 66.2475pt x 84.315pt>
 File: assets/image58.png Graphic file (type png)
 <use assets/image58.png>
-Package pdftex.def Info: assets/image58.png  used on input line 166.
+Package pdftex.def Info: assets/image58.png  used on input line 168.
 (pdftex.def)             Requested size: 54.62706pt x 69.52597pt.
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 175.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 177.
  (d:/texlive/2025/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
 )
-<assets/image60.png, id=228, 566.115pt x 186.6975pt>
+<assets/image60.png, id=226, 566.115pt x 186.6975pt>
 File: assets/image60.png Graphic file (type png)
 <use assets/image60.png>
-Package pdftex.def Info: assets/image60.png  used on input line 187.
+Package pdftex.def Info: assets/image60.png  used on input line 189.
 (pdftex.def)             Requested size: 141.12456pt x 46.54036pt.
 
 
-[5 <./assets/image54.png> <./assets/image56.png> <./assets/image58.png> <./assets/image60.png>] (./数模校赛论文.aux)
+[5 <./assets/image50.png> <./assets/image52.png> <./assets/image54.png> <./assets/image56.png> <./assets/image58.png> <./assets/image60.png>] (./数模校赛论文.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10083 strings out of 473190
- 192033 string characters out of 5719979
+ 10109 strings out of 473190
+ 192614 string characters out of 5719979
  573629 words of memory out of 5000000
- 32896 multiletter control sequences out of 15000+600000
+ 32922 multiletter control sequences out of 15000+600000
  622498 words of font info for 270 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,9n,83p,936b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,9n,83p,1210b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 数模校赛论文.pdf (6 pages, 596969 bytes).
+Output written on 数模校赛论文.pdf (6 pages, 603850 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  381 compressed objects within 4 object streams
